@@ -33,5 +33,5 @@ GitHub Pages is only used to showcase the project and provide access to the sour
 
 ## Author
 
-Muhammad Umais
+Muhammad Umais and 
 Sidra Mujtaba
